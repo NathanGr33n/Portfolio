@@ -1,0 +1,117 @@
+{
+  "name": "Nathan Green",
+  "role": "Software Engineering Major | Lead Developer",
+  "company": "NKG-Systems",
+  "bio": "Software Engineering Major at OIT. Lead Developer for NGK-Systems, building innovative solutions across web, mobile, and systems development.",
+  "avatar": "https://avatars.githubusercontent.com/u/26094693?v=4",
+  "contact": {
+    "github": "https://github.com/NathanGr33n",
+    "email": "contact@nathangreen.dev"
+  },
+  "skills": [
+    "C++",
+    "C#",
+    "SQL",
+    "Rust",
+    "Kotlin",
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "Java",
+    "Node.js",
+    "React",
+    "HTML/CSS",
+    "Dart",
+    "Flutter",
+    "Next.js",
+    "Shell Scripting"
+  ],
+  "projects": [
+    {
+      "title": "Sh4d0w_UI",
+      "description": "Custom UI Application with modern interface design and components",
+      "tech": ["JavaScript", "React"],
+      "stars": 1,
+      "url": "https://github.com/NathanGr33n/Sh4d0w_UI",
+      "featured": true
+    },
+    {
+      "title": "Space Invaders - Flame Engine",
+      "description": "Classic Space Invaders game recreated using Dart and Flutter's Flame game engine",
+      "tech": ["Dart", "Flutter", "Flame"],
+      "stars": 1,
+      "url": "https://github.com/NathanGr33n/space_invaders_flame",
+      "featured": true
+    },
+    {
+      "title": "Custom Linux OS",
+      "description": "Custom Linux operating system built from scratch",
+      "tech": ["Shell", "Linux"],
+      "stars": 0,
+      "url": "https://github.com/NathanGr33n/_OS",
+      "featured": true
+    },
+    {
+      "title": "CLI Tool",
+      "description": "Custom-built command-line interface tool for developers",
+      "tech": ["TypeScript", "Node.js"],
+      "stars": 0,
+      "url": "https://github.com/NathanGr33n/CLI_Tool",
+      "featured": false
+    },
+    {
+      "title": "Python Email Display",
+      "description": "Simple email client to summarize and display last 10 emails",
+      "tech": ["Python"],
+      "stars": 0,
+      "url": "https://github.com/NathanGr33n/python_email_display",
+      "featured": false
+    },
+    {
+      "title": "Blackjack - Pygame",
+      "description": "Classic Blackjack card game built with Python and Pygame",
+      "tech": ["Python", "Pygame"],
+      "stars": 1,
+      "url": "https://github.com/NathanGr33n/blackjack_pygame",
+      "featured": false
+    },
+    {
+      "title": "Python Kanban Board",
+      "description": "Command-line Kanban board for task management",
+      "tech": ["Python"],
+      "stars": 1,
+      "url": "https://github.com/NathanGr33n/python_kanban_board",
+      "featured": false
+    },
+    {
+      "title": "Idle Game",
+      "description": "Incremental idle game with progression mechanics built in Python",
+      "tech": ["Python", "Pygame"],
+      "stars": 1,
+      "url": "https://github.com/NathanGr33n/idle_game_python",
+      "featured": false
+    },
+    {
+      "title": "iOS Focus Tracker",
+      "description": "Pomodoro/Focus Timer application for iOS productivity",
+      "tech": ["Swift", "iOS"],
+      "stars": 1,
+      "url": "https://github.com/NathanGr33n/ios_focus-tracker",
+      "featured": false
+    }
+  ],
+  "experience": [
+    {
+      "title": "Lead Developer",
+      "company": "NGK-Systems",
+      "period": "2017 - Present",
+      "description": "Leading development initiatives and building innovative software solutions"
+    },
+    {
+      "title": "Software Engineering Student",
+      "company": "Oregon Institute of Technology (OIT)",
+      "period": "Current",
+      "description": "Studying Software Engineering with focus on systems development and full-stack applications"
+    }
+  ]
+}
